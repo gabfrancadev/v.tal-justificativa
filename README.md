@@ -20,9 +20,9 @@ Padroniza o preenchimento com seleção de **Período de referência**, **Ativid
 4. **Responsável** — quem executará a ação
 5. **Prazo** — data prevista para conclusão
 
-[./assets/tela-formulario.png]
+[./assets/tela-formulario.webp]
 
 ### 2. Painel de Consulta (`Justificativas Recebidas`)
 Centraliza os envios realizados com filtros por **Período** e **Regional**, visualização tabular dos indicadores e ações para **Novo envio**, **Atualizar**, **Visualizar**, **Editar** e **Excluir** registros.
 
-[./assets/tela-recebidas.png]
+[./assets/tela-recebidas.webp]
